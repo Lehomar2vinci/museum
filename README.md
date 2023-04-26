@@ -1,2 +1,3 @@
-# museum-
-A little application exercise about museum.
+# Museum 
+
+Une petite Application/ exercice afin d'explorer les possibilités de [Flutter](https://flutter.dev/) pour de l'application mobile sous Android.
